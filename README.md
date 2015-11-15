@@ -1,4 +1,4 @@
-# Parsedown integration  for [Morfy CMS](http://morfy.org/)
+# (CLOSED because included in the core) Parsedown integration  for Morfy CMS
 
 ### :fire: Fastest plugin for parsing Markdown syntax files.
 
